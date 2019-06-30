@@ -2,7 +2,7 @@
 
 [![build][travis-image]][travis-url] [![codecov][codecov-image]][codecov-url]
 
-openid-client is a server side [OpenID][openid-connect] Relying Party (RP, Client) implementation for
+**openid-client** is a server side [OpenID][openid-connect] Relying Party (RP, Client) implementation for
 Node.js runtime, supports [passport][passport-url].
 
 **WARNING: Node.js 12 or higher is required for openid-client@3 and above.** For older Node.js
